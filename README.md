@@ -7,17 +7,17 @@ below. Using the Expo framework, I was able to test the app on my iPhone.
 
 ![](IMG_2340.PNG)
 
-![](IMG_2341.PNG)
+![](screenshots/IMG_2341.PNG)
 
-![](IMG_2342.PNG)
+![](screenshots/IMG_2342.PNG)
 
-![](IMG_2343.PNG)
+![](screenshots/IMG_2343.PNG)
 
-![](IMG_2344.PNG)
+![](screenshots/IMG_2344.PNG)
 
-![](IMG_2345.PNG)
+![](screenshots/IMG_2345.PNG)
 
-![](IMG_2346.PNG)
+![](screenshots/IMG_2346.PNG)
 
 
 
